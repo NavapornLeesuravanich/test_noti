@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350815349816",
+    "project_id": "the-happiness-app-91cbf",
+    "storage_bucket": "the-happiness-app-91cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350815349816:android:339b41d4b73757256a4acd",
+        "android_client_info": {
+          "package_name": "com.example.project_yesgroup_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDUyaZa7LBl36fohNYn82z0ms1i3KHIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
